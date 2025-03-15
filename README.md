@@ -1,1 +1,1 @@
-Buscador de clima basico creado con react : aplicacion-clima-simple.netlify.app
+Buscador de clima basico creado con react : https://aplicacion-clima-simple.netlify.app/
